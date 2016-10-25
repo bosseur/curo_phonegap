@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3c.org/ns/widgets"
+	xmlns:gap="http://phonegap.com/ns/1.0"
+	version="1.0.0"
+	id="nl.bosseur.cenourapp">
+	<name>Só de Cenoura</name>
+	<description>Menu do restaurante só de cenoura</description>
+	<autor href="" email="bosseur@gmail.com">Eu mesmo</autor>
+	<icon src="icon.png" />
+	<gap:splash src="splash.png" />
+	<preference name="orientation" value="portrait" />
+	<preference name="fullscreen" value="true" />
+	<platform name="android" />
+</widget>
